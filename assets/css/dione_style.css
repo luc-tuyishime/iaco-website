@@ -425,6 +425,18 @@ body {
 }
 
 
+#over { 
+    font-size: 5em; 
+    position: absolute; 
+    top: 30%; 
+    left: 20%; 
+    z-index: 2 
+}
+
+
+
+
+
 /*------------------------------------*\
     Section - Ticket
 \*------------------------------------*/
