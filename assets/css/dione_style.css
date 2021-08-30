@@ -77,6 +77,36 @@
     min-height: 100%;
   }
 
+  .address {
+      margin-top: 45px;
+      color: #fff;
+      font-size: 15px;
+      background-color: black;
+      border-radius: 10px;
+      padding: 7px 7px;
+      width: 110px;
+      -webkit-border-radius: 10px;
+      -moz-border-radius: 10px;
+      -ms-border-radius: 10px;
+      -o-border-radius: 10px;
+}
+
+
+.date_ {
+    margin-top: 45px;
+    color: #fff;
+    font-size: 15px;
+    background-color: #43a047;
+    border-radius: 10px;
+    font-weight: bold;
+    padding: 7px 7px;
+    width: 110px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
 
 /*
 * Home BG Slideshow
@@ -216,6 +246,24 @@
 }
 
 
+#more {display: none;}
+
+#more2 {display: none;}
+
+#more3 {display: none;}
+#more4 {display: none;}
+#more5 {display: none;}
+#more6 {display: none;}
+#more7 {display: none;}
+#more8 {display: none;}
+#more9 {display: none;}
+#more10 {display: none;}
+#more11 {display: none;}
+
+
+.img-header {
+    height: 99px !important;
+}
 
 
 
@@ -428,7 +476,7 @@ body {
 #over { 
     font-size: 5em; 
     position: absolute; 
-    top: 30%; 
+    top: 20%; 
     left: 20%; 
     z-index: 2 
 }
